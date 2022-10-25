@@ -1,0 +1,12 @@
+{
+  "name": "etiyahomework1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "EtiyaHomeWork1.js",
+  "scripts": {
+    "start": "node EtiyaHomeWork1.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
